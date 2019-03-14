@@ -1,0 +1,1 @@
+./build/part3 generateGraph.txt testFile.txt output.txt
